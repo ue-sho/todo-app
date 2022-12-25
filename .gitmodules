@@ -1,0 +1,12 @@
+[submodule "frontend"]
+	path = frontend
+	url = git@github.com:ue-sho/todoweb.git
+[submodule "backend"]
+	path = backend
+	url = git@github.com:ue-sho/todoapi.git
+[submodule "nginx"]
+	path = nginx
+	url = git@github.com:ue-sho/todonginx.git
+[submodule "db"]
+	path = db
+	url = git@github.com:ue-sho/tododb.git
